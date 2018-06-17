@@ -1,0 +1,11 @@
+{
+  "name": "graphql-mongodb",
+  "version": "1.0.0",
+  "description": "Conexion GraphQL con MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernesto Aguaysol",
+  "license": "UNLICENSED"
+}
